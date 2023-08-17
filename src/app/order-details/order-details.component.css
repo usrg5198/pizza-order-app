@@ -1,0 +1,21 @@
+/* order-details.component.css */
+h3 {
+    color: #333;
+  }
+  
+  h4 {
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #777;
+  }
+  
+  /* Styling for pizzas in the order */
+  .order-pizza {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
